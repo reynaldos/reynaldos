@@ -1,13 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Rey, a full-time software engineer. 👨‍💻 </div>  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -60,21 +50,3 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=reynaldos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
