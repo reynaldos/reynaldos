@@ -12,12 +12,14 @@
  
  <div align="center">
   <h1>Interests</h1>
-<ul>
-  <li>Web Development</li>
-  <li>Full-stack Development</li>
-  <li>Web3 Development</li>
-  </ul>
-  </div>
+    <div>
+      <ul>
+        <li>Web Development</li>
+        <li>Full-stack Development</li>
+        <li>Web3 Development</li>
+       </ul>
+      </div>
+</div>
 
 
 <div align="center">
@@ -52,8 +54,8 @@
 <br/>  
 
 
-## Connect with me  
 <div align="center">
+  <h1>Connect with me</h1>
 <a href="https://github.com/reynaldos" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
