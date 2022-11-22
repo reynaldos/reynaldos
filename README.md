@@ -12,13 +12,12 @@
  
  <div align="center">
   <h1>Interests</h1>
-    <div width="min-content">
-      <ul>
-        <li>Web Development</li>
-        <li>Full-stack Development</li>
-        <li>Web3 Development</li>
-       </ul>
-      </div>
+ <p>
+        - Web Development</br>
+        - Full-stack Development</br>
+        - Web3 Development</br>
+   </p>
+
 </div>
 
 
