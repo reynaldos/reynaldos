@@ -10,16 +10,18 @@
  </div>
  
  
-## Interests
+ <div align="center">
+  <h1>Interests</h1>
 <ul>
   <li>Web Development</li>
   <li>Full-stack Development</li>
   <li>Web3 Development</li>
   </ul>
+  </div>
 
-## My Skill Set  
 
 <div align="center">
+  <h1>My Skill Set</h1>
 <table>
   <tr>
     <td valign="top" width="45%">
