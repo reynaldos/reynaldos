@@ -1,8 +1,16 @@
 
+## Hi there! 
+<p>My name is Rey Sanchez. I am a creative full-stack developer with 3+ years of experience leveraging React and other tools to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.</p>
+
+Interests:
+<ul>
+  <li>Web Development</li>
+  <li>Full-stack Development</li>
+  <li>Web3 Development</li>
+  </ul>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -14,9 +22,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td><td valign="top" width="45%">
 
 ### Backend  
 <div align="center">  
@@ -27,11 +33,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td></table>  
 
 <br/>  
 
