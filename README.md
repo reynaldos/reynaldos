@@ -4,8 +4,9 @@
 
 
 <div align="center">
-  <h1>Hi There!</h1>
-<p>My name is Rey Sanchez. I am a creative full-stack developer with 3+ years of experience leveraging React and other tools to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.</p>
+  <h1>Rey Sanchez</h1>
+ 
+<p><Hi there! My name is Rey Sanchez, I am a creative full-stack developer with 3+ years of experience leveraging React and other tools to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.</p>
  </div>
  
  
