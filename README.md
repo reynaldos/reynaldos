@@ -12,7 +12,7 @@
  
  <div align="center">
   <h1>Interests</h1>
-    <div>
+    <div width="min-content">
       <ul>
         <li>Web Development</li>
         <li>Full-stack Development</li>
