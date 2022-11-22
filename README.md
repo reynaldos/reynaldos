@@ -3,10 +3,13 @@
 </div>
 
 
+<div align="center">
 ## Hi there! 
 <p>My name is Rey Sanchez. I am a creative full-stack developer with 3+ years of experience leveraging React and other tools to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.</p>
-
-Interests:
+ </div>
+ 
+ 
+## Interests
 <ul>
   <li>Web Development</li>
   <li>Full-stack Development</li>
