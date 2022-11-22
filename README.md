@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://www.reysanchez.dev/logo/logo-180x180.png" width="100" />
+  <a href="https://reysanchez.dev" target="_blank"><img alt="Logo" src="https://www.reysanchez.dev/logo/logo-180x180.png" width="100" /></a>
 </div>
 
 
