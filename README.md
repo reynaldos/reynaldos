@@ -6,7 +6,7 @@
 <div align="center">
   <h1>Rey Sanchez</h1>
  
-<p>Hi there! I am a creative full-stack developer with 3+ years of experience leveraging React and other tools to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.</p>
+<p>Hi there! I am a creative full-stack developer with 4+ years of experience leveraging React and other tools to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.</p>
  </div>
  
  
