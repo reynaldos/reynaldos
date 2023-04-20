@@ -6,7 +6,7 @@
 <div align="center">
   <h1>Rey Sanchez</h1>
  
-<p>Hi there! I am a creative full-stack developer with 4+ years of experience leveraging React and other tools to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.</p>
+<p>As a creative software developer with 4+ years of experience, I specialize in leveraging React and other tools to design and develop responsive websites, mobile applications, and interactive features that have consistently driven business growth and enhanced user experience. With a proven track record of utilizing my full-stack knowledge and expertise to build scalable, interactive, and user-centric applications, I am confident in my ability to deliver exceptional results that exceed expectations.</p>
  </div>
  
  
@@ -42,6 +42,9 @@
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
